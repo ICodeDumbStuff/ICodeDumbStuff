@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/x31a_" target="blank"><img src="https://img.shields.io/twitter/follow/x31a_?logo=twitter&style=for-the-badge" alt="x31a_" /></a> </p>
 
-- 🔭 I’m currently working on [VitezaCloud](https://vteza.cloud)
+- 🔭 I’m currently working on [XA Hosting](https://xahosting.co)
 
 - 🌱 I’m currently learning **C# and .NET**
 
-- 📫 How to reach me **alex@x31a.cloud**
+- 📫 How to reach me **github-requests@x31a.cloud**
 
 - ⚡ Fun fact **I Code Too Much**
 
